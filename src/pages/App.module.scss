@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@600&display=swap');
+
+.App {
+  font-family: 'Noto Serif TC', serif;
+  text-align: center;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  .content  {        // 以 header 與 footer 固定高度，剩下的填滿
+    flex: 1;
+  }
+  .header {
+    height: 100px;
+  }
+  .footer {
+    height: 50px;
+    padding: 50px 0px;
+    background-color: #fafafa;
+    border-top: 1px solid rgb(231, 230, 230);
+  }
+}

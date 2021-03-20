@@ -1,0 +1,70 @@
+{
+    "code": 200,
+    "msg": "Success!",
+    "data": [{
+            "title": "nodejs-with-Restful",
+            "brief": "使用 Nodejs 的 Express 框架建立 Restful Api 伺服器，以 mongodb 作為後端資料庫。 ",
+            "tags": ["nodejs", "express", "mongodb", "restful"],
+            "cover": "https://res.cloudinary.com/practicaldev/image/fetch/s--Ivxqm0hD--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/2hjc9n8hifpf121uhjzw.png",
+            "id": 1
+        },
+        {
+            "title": "EC-final-marketing_website",
+            "brief": "電子商務期末專案：小農和當地食品商家之間的合作，除了幫助農民減少中間商的佣金，另一方面亦協助店家開發新產品。",
+            "tags": ["html", "php", "mysql", "google materialize"],
+            "cover": "https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/47685231_2085802528148258_2652352097252540416_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=XfDr75PgqXkAX8Xoks1&_nc_ht=scontent.fkhh1-1.fna&oh=41a7f4333197e459d40dd9c9c94d6e3b&oe=607B65F7",
+            "id": 2
+        },
+        {
+            "title": "105-web_final-opendata",
+            "brief": "以 javascript 串接高雄市政府開放資料（data.kcg.gov ），並透過 Google Map API 顯示相關資訊。",
+            "tags": ["javascript", "opendata", "Google Map API "],
+            "cover": "https://driver.cool3c.com/files/10/contentparty/VmUJVAR.jpg",
+            "id": 3
+        },
+        {
+            "title": "socket.io-chatroom",
+            "brief": "以 nodejs 作為後端架設伺服器，練習運用 socket.io 建立簡單的群組聊天室服務。",
+            "tags": ["nodejs", "websocket", "socket.io"],
+            "cover": "https://miro.medium.com/max/1200/0*5bJALe1s_0KaxRbp.png",
+            "id": 4
+        },
+        {
+            "title": "IoT-sport_training_platform",
+            "brief": "大學畢業專題：監測運動選手跑步時是否出現受傷前兆，以及教練對於選手的訓練課表管理功能",
+            "tags": ["IoT", "android (Java)", "arduino", "php", "mysql"],
+            "cover": "https://i.imgur.com/v5rGnIl.png",
+            "id": 5
+        },
+        {
+            "title": "bootstrap-typography",
+            "brief": "以 bootstrap 來做網頁的排版設計，主要學習 Component, Utitlites, Flex 排列, Grid 網格系統等功能的應用，提升未來的排版速度。",
+            "tags": ["html", "bootstrap", "typography"],
+            "cover": "http://logovectorseek.com/wp-content/uploads/2019/10/bootstrap-logo-vector.png",
+            "id": 6
+        },
+        {
+            "title": "python-final-voice_assistant",
+            "brief": "Python 期末專案：使用 python 套件模仿類似 Siri，Alexa 的語音助手，並以 selenium 來協助語音的線上搜尋。",
+            "tags": ["Python", "speech_recognition", "speekmodule", "selenium"],
+            "cover": "https://dakkki.github.io/images/python.png",
+            "id": 7
+        },
+        {
+            "title": "nodejs-shopping-website",
+            "brief": "以 Nodejs 的 Express 框架建立一個購物網站，搭配 JWT 登入系統，擁有基本的購物結帳功能。",
+            "tags": ["nodejs", "express", "art-template", "mongodb", "JWT"],
+            "cover": "https://miro.medium.com/max/800/1*M10QaO1mZCk_jvH2EBNmaQ.jpeg",
+            "id": 8
+        },
+        {
+            "title": "CSS-Animation-practice_project",
+            "brief": "嘗試利用 CSS 及 Javascript 製造有趣特效來提升使用者體驗，例如：全螢幕影片毛玻璃特效、恐怖晃動文字、Loading 過場頁面等",
+            "tags": ["html", "css", "javascript"],
+            "cover": "https://i.imgur.com/hZMamXP.jpg",
+            "id": 9
+        }
+
+
+    ]
+}
